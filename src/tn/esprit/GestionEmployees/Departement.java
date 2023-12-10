@@ -1,5 +1,5 @@
 package tn.esprit.GestionEmployees;
-import java.util.*;
+import java.util.Objects;
 
 public class Departement implements Comparable<Departement> {
     private int id;
